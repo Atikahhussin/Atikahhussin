@@ -1,6 +1,6 @@
 Hi there, I'm Nur Atikah!
 
-I am a 2nd-year Computer Science student at Universiti Teknologi PETRONAS with a strong focus on emerging technologies and a passion for building efficient, real-world solutions. I maintain a high academic standard as a consistent Dean's List awardee with a 3.84 CGPA.
+I am a final year Computer Science student at Universiti Teknologi PETRONAS with a strong focus on emerging technologies and a passion for building efficient, real-world solutions. I maintain a high academic standard as a consistent Dean's List awardee with a 3.84 CGPA.
 
 I thrive at the intersection of Software Development and Project Management, having balanced technical developer roles with leadership positions in major campus events.
 
